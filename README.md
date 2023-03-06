@@ -3,3 +3,5 @@
 
 Website will display a barebones portfolio website, as there were no projects I felt appropriate to display.  
 Placeholder images function as requested in the assignment as if they were projects.
+
+ https://cschmidt216.github.io/challenge-02-Portfolio/
