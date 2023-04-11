@@ -78,7 +78,9 @@ header {
   justify-content: space-around;
   margin-top: 20px;
 }
-
+#project2 {
+  max-width: 500px;
+}
 .project-item img:hover {
   transform: scale(1.2);
 }
