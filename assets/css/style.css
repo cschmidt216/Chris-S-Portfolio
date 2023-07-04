@@ -164,3 +164,25 @@ h3 {
   height: 100px; 
 }
 
+.header-image {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  flex-basis: 100%; 
+  margin-right: 0; 
+  margin-bottom: 10px;
+}
+
+@media (max-width: 500px) {
+  .header-image {
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+  }
+}
+
+.header-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
